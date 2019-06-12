@@ -1,0 +1,3 @@
+build.py    Input file is build.csv and ouptuf file is json file .Kindly change the path to ur locl system path for filegeneration and execute the program.
+conn.sh   is shell script to check the site is up/down.
+testps.ps1 is powershell script for rest apicall
