@@ -1,0 +1,1 @@
+((Invoke-RestMethod -Uri https://reqres.in/api/users?page=2).data|Format-Table -property  id,email)|out-file C:\Users\Ashok\Desktop\testpwershell.csv
